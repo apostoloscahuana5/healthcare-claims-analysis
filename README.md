@@ -254,7 +254,7 @@ Built a dynamic lookup tool that returns a patient's billing amount by entering 
 An interactive 3-page dashboard was built in Power BI. Age groups were created using Power Query's Conditional Column feature, eliminating the need for DAX formulas.
 
 ### Page 1 — Overview
-[![Overview Dashboard](assets/powerbi_overview.png)](https://github.com/apostoloscahuana5/healthcare-claims-analysis/blob/main/PowerBI/Screenshot%202026-08-11%20115815.png)
+![Overview Dashboard](assets/powerbi_overview.png)
 
 **Key metrics:**
 - Total Billing: **$1.42bn**
