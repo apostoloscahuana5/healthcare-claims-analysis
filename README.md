@@ -100,7 +100,7 @@ The dataset contains 55,500 real healthcare records with the following fields:
 | Cigna | $25,525.77 |
 | UnitedHealthcare | $25,389.17 |
 
-> 📸 *Add screenshot of pgAdmin results here* (`assets/2_avg_billing_by_insurance.png`)
+<img width="392" height="255" alt="Screenshot 2026-08-11 121224" src="https://github.com/user-attachments/assets/864c8384-44f2-44a4-ac14-f49b8d8e3458" />
 
 ---
 
@@ -122,7 +122,7 @@ The dataset contains 55,500 real healthcare records with the following fields:
 | Hypertension | $25,497.10 |
 | Cancer | $25,161.79 |
 
-> 📸 *Add screenshot of pgAdmin results here* (`assets/3_billing_by_condition.png`)
+<img width="417" height="290" alt="Screenshot 2026-08-11 121233" src="https://github.com/user-attachments/assets/4475e79c-2308-4289-9723-338e761c9755" />
 
 ---
 
@@ -141,7 +141,7 @@ The dataset contains 55,500 real healthcare records with the following fields:
 | Urgent | $25,517.36 | 18,576 |
 | Emergency | $25,497.40 | 18,269 |
 
-> 📸 *Add screenshot of pgAdmin results here* (`assets/4_billing_by_admission_type.png`)
+<img width="640" height="162" alt="Screenshot 2026-08-11 121243" src="https://github.com/user-attachments/assets/b5ba2c4a-21cd-4555-ae42-008e80f9569c" />
 
 ---
 
@@ -162,7 +162,7 @@ Age groups were created using CASE statements to bucket patients into meaningful
 | Adult (36-50) | $25,522.15 |
 | Senior (65+) | $25,423.10 |
 
-> 📸 *Add screenshot of pgAdmin results here* (`assets/5_billing_by_age_group.png`)
+<img width="252" height="257" alt="Screenshot 2026-08-11 121252" src="https://github.com/user-attachments/assets/43312253-1c71-4812-bd82-f1c8120ee9cf" />
 
 ---
 
@@ -184,7 +184,7 @@ Only hospitals with more than 10 claims were included using HAVING.
 | Inc Brown | $31,812.73 | 28 |
 | Inc Jones | $32,197.46 | 25 |
 
-> 📸 *Add screenshot of pgAdmin results here* (`assets/6_top_hospitals.png`)
+<img width="557" height="907" alt="Screenshot 2026-08-11 121307" src="https://github.com/user-attachments/assets/a1d344dd-941b-40d1-92f7-92be97067d63" />
 
 ---
 
@@ -206,7 +206,7 @@ Length of stay was calculated by extracting the number of days between admission
 | Diabetes | 14.92 |
 | Cancer | 14.91 |
 
-> 📸 *Add screenshot of pgAdmin results here* (`assets/7_avg_stay_by_condition.png`)
+<img width="342" height="287" alt="Screenshot 2026-08-11 121318" src="https://github.com/user-attachments/assets/fafb60e1-a908-447e-80de-760bdc40f90a" />
 
 ---
 
@@ -225,14 +225,14 @@ Excel was used to further summarize and visualize the SQL findings.
 | Medicare | $25,640.45 | $25,596.09 | $25,611.55 | $25,615.99 |
 | UnitedHealthcare | $25,303.10 | $25,740.17 | $25,137.17 | $25,389.17 |
 
-> 📸 *Add screenshot of Excel Pivot Table here* (`assets/excel_pivot_table.png`)
+<img width="642" height="208" alt="Screenshot 2026-08-11 120818" src="https://github.com/user-attachments/assets/d4b8048e-27e2-4668-add2-b911a83112d3" />
 
 ### Bar Chart — Avg Billing by Medical Condition
 **Skills:** Data visualization, bar charts
 
 Obesity had the highest average billing at ~$25,800, followed by Diabetes and Asthma.
 
-> 📸 *Add screenshot of Excel bar chart here* (`assets/excel_bar_chart.png`)
+<img width="821" height="416" alt="Screenshot 2026-08-11 120829" src="https://github.com/user-attachments/assets/010e6781-3fb7-42b7-ac06-ee198a2c21ad" />
 
 ### AVERAGEIF — Avg Billing by Gender
 **Skills:** AVERAGEIF
