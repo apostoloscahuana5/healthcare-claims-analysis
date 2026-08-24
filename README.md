@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project analyzing healthcare insurance claims data to uncover billing patterns, cost drivers, and patient trends across hospitals, medical conditions, and insurance providers.
 
-🔍 SQL Queries: [project_sql folder](/sql code for healthcare/)
+🔍 SQL Queries: [project_sql folder](/sqlcodeforhealthcare/)
 📊 Excel Analysis: [excel folder](/Excel/)
 📈 Power BI Dashboard: [powerbi folder](/PowerBI/)
 
