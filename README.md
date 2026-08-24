@@ -2,9 +2,9 @@
 
 An end-to-end data analytics project analyzing healthcare insurance claims data to uncover billing patterns, cost drivers, and patient trends across hospitals, medical conditions, and insurance providers.
 
-🔍 SQL Queries: [project_sql folder](/project_sql/)
-📊 Excel Analysis: [excel folder](/excel/)
-📈 Power BI Dashboard: [powerbi folder](/powerbi/)
+🔍 SQL Queries: [project_sql folder](/sqlcodeforhealthcare/)
+📊 Excel Analysis: [excel folder](/Excel/)
+📈 Power BI Dashboard: [powerbi folder](/PowerBI/)
 
 ---
 
@@ -254,7 +254,7 @@ Built a dynamic lookup tool that returns a patient's billing amount by entering 
 An interactive 3-page dashboard was built in Power BI. Age groups were created using Power Query's Conditional Column feature, eliminating the need for DAX formulas.
 
 ### Page 1 — Overview
-[![Overview Dashboard](assets/powerbi_overview.png)](https://github.com/apostoloscahuana5/healthcare-claims-analysis/blob/main/PowerBI/Screenshot%202026-08-11%20115815.png)
+![Overview Dashboard](PowerBI/powerbi_overview.png)
 
 **Key metrics:**
 - Total Billing: **$1.42bn**
@@ -266,7 +266,7 @@ An interactive 3-page dashboard was built in Power BI. Age groups were created u
 ---
 
 ### Page 2 — Patient Demographics
-![Patient Demographics](assets/powerbi_demographics.png)
+![Patient Demographics](PowerBI/powerbi_demographics.png)
 
 - Minor age group has the highest average billing at ~$28.5K
 - Gender split is nearly 50/50 — Female (50.04%) vs Male (49.96%)
@@ -275,7 +275,7 @@ An interactive 3-page dashboard was built in Power BI. Age groups were created u
 ---
 
 ### Page 3 — Hospital & Conditions
-![Hospital and Conditions](assets/powerbi_hospitals.png)
+![Hospital and Conditions](PowerBI/powerbi_hospitals.png)
 
 - Average billing by hospital varies significantly — top hospitals averaging over $40K
 - Obesity consistently leads in average billing across conditions
